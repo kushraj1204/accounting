@@ -1,0 +1,13 @@
+php index.php cli/LateFee notify
+/e/xampp/php/php.exe index.php cli/CliFee late
+/e/xampp/php/php.exe index.php cli/CliFee upcoming
+/g/xampp/php/php.exe index.php cli/CliBSDate update_students_dob
+/g/xampp/php/php.exe index.php cli/CliBSDate update_fee_due_dates
+/g/xampp/php/php.exe index.php cli/CliBSDate update_attendance_dates
+/g/xampp/php/php.exe index.php cli/CliBSDate update_event_dates
+/e/xampp/php/php.exe index.php cli/CliLoginPwd updateStudentCredentials
+/e/xampp/php/php.exe index.php cli/CliLoginPwd updateParentCredentials
+
+php index.php cli/CliFee cronjob
+php index.php cli/CliFee generateFees $month $year
+php index.php cli/CliFee generateFee $student_id $month $year

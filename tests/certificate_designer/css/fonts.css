@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Times+New+Roman|Saira+Stencil+One|Anton|Lobster|Roboto");
+
+.container {
+	display: flex;
+}
+.options {
+	flex: 0 0 20%;
+}
+.result {
+	margin-left: 1em;
+	flex: 1;
+}

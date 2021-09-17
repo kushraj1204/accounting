@@ -1,0 +1,3 @@
+staff_id,role,department,designation,title,first_name,gender,date_of_birth,date_of_joining,email,qualification,work_experience,surname,father_name,mother_name,contact_no,emergency_contact_number,marital_status,permanent_address,note,pan_no,local_address,account_title,bank_account_no,bank_name,bank_branch,basic_salary,epf_no,contract_type,shift,location,facebook,twitter,linkedin,instagram,pf,tds,bonus,date_of_leaving,cit_no,account_balance,account_balance_type
+STF001a,Teacher,Mathematics,Teacher,Mr.,bir bahadur,Male,19/20/2050,15/06/2077,kushraj1204@gmail.com,,,,,,,,,nuwakot,,,,,,,,,,,,,,,,,,,,,,,
+STF001b,Teacher,Mathematics,Teacher,Mr.,bir bahadur,Male,19/08/2050,15/06/2077,kush123@gmail.coms,,,,,,,,,nuwakot,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,4 @@
+code,name,category,sub_category_1,sub_category_2,opening_balance,description,is_bank,is_cash,,"Note:Code must be unique, else a random code will be generated."
+,,,,,,,Yes,No,,Note: is_bank and is_cash if left empty will default to No.
+,,,,,,,,,,Note: Please make sure that the categories and subcategories are valid and have valid relations.
+,,,,,,,,,,Note: Please remove this row before adding accounts.

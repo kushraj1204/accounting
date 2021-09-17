@@ -1,0 +1,7 @@
+.idea/
+temp/*
+!temp/.gitkeep
+install_bak/
+# application/config/config.php
+# application/config/database.php
+# application/config/autoload.php
